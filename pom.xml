@@ -13,7 +13,7 @@
       </snapshots>
       <id>central</id>
       <name>Central Repository</name>
-      <url>http://localhost:8081/repository/mavennex/</url>
+      <url>http://localhost:8081/repository/hello//</url>
     </repository>
   </repositories>
   <pluginRepositories>
@@ -26,7 +26,7 @@
       </snapshots>
       <id>central</id>
       <name>Central Repository</name>
-      <url>http://localhost:8081/repository/mavennexrelease/</url>
+      <url>http://localhost:8081/repository/world/</url>
     </pluginRepository>
   </pluginRepositories>
   <build>
